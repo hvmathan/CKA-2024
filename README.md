@@ -44,19 +44,21 @@ Note: If you found the content helpful, consider giving the repository a star �
 - Other docker best practices
 
 ## Day 4 Video: Why do We need Kubernetes?
-**Status**:  Video Live Date: 20th June
+**Status**: Video is live, check out 👉 [Day4](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day04) 👈 folder for notes and useful links ✅
 
 ## Day 5 Video: Kubernetes Architecture
+**Status**: Video is live, check out 👉 [Day5](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day05) 👈 folder for notes and useful links ✅
 - Control plane VS Worker Nodes
 - Overview of control plane components
 
 ## Day 6 Video: Install Kubernetes Cluster locally
+**Status**: Video is live, check out 👉 [Day6](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day06) 👈 folder for notes and useful links ✅
 
 - Install Kind cluster locally
 - How to access the cluster
 
 ## Day7 Video: Pods in Kubernetes
-
+**Status**: Video is live, check out 👉 [Day7](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day07) 👈 folder for notes and useful links ✅
 - What are pods in Kubernetes?
 - Containers VS Pods
 - Imperative VS Declarative way for creating Kubernetes resources
@@ -65,6 +67,7 @@ Note: If you found the content helpful, consider giving the repository a star �
 - Inspect the pods
 
 ## Day8 Video: Replicasets and Deployments in Kubernetes:
+**Status**: Video is live, check out 👉 [Day8](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day08) 👈 folder for notes and useful links ✅
 - Replication Controller
 - ReplicaSet
 - Deployments
@@ -72,41 +75,50 @@ Note: If you found the content helpful, consider giving the repository a star �
 - Scale the deployment
 
 ## Day9 Video: Services in Kubernetes:
-
+**Status**: Video is live, check out 👉 [Day9](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day09) 👈 folder for notes and useful links ✅
 - What are services in Kubernetes, and why do we need them?
 - Node port, ClusterIP, and LoadBalancer
 
 ## Day 10 Video: Namespaces:
+**Status**: Video is live, check out 👉 [Day10](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day10) 👈 folder for notes and useful links ✅
 - NameSpaces
 - Services and namespaces
 
 
 ## Day 11 Video: Multi-container Pods
+**Status**: Video is live, check out 👉 [Day11](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day11) 👈 folder for notes and useful links ✅
 - What are multi-container pods
 - Multi-container pods pattern - sidecar/init etc
 - Environment variables in Kubernetes
 
 
 ## Day 12 Video: Daemonset, Cronjob, and job
+**Status**: Video is live, check out 👉 [Day12](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day12) 👈 folder for notes and useful links ✅
 - What are Daemonset, cronjobs and Jobs
 - Cron fundamentals with examples
 
 
 ## Day13 Video: Static Pods
+**Status**: Video is live, check out 👉 [Day13](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day13) 👈 folder for notes and useful links ✅
 - What are static pods
 - Labels and selectors
 - Manual Scheduling
 
 
 ## Day14 Video: Taints and Tolerations
-- What are taints and tolerations
-
+**Status**: Video is live, check out 👉 [Day14](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day14) 👈 folder for notes and useful links ✅
 
 ## Day15 Video: Node Affinity
+**Status**: Video is live, check out 👉 [Day15](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day15) 👈 folder for notes and useful links ✅
+
 
 ## Day16 Video: Resource Requests and Limits
+**Status**: Video is live, check out 👉 [Day16](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day16) 👈 folder for notes and useful links ✅
+
 
 ## Day17 Video: Autoscaling in Kubernetes
+**Status**: Video is live, check out 👉 [Day17](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day17) 👈 folder for notes and useful links ✅
+
 - Horizontal VS Vertical Autoscaling
 - HPA, VPA, Cluster autoscaling, NAP
 - Metrics server
@@ -176,8 +188,9 @@ Note: If you found the content helpful, consider giving the repository a star �
 - End-to-end flow
 - Important files and resources
 
-## Day31 Video: Docker Networking
-- How Networking works in a docker container
+## Day31 Video: DNS in kubernetes
+- How DNS works in Kubernetes
+- Core-DNS
 
 ## Day32 Video: Kubernetes Networking
 - CNI , Network Add-on
@@ -194,21 +207,20 @@ Note: If you found the content helpful, consider giving the repository a star �
 - Understand how to monitor applications, metric server
 - Manage container stdout & stderr logs
 
-## Day 36 Video: Troubleshoot application failure
+## Day 37 Video: Troubleshoot application failure
 
-## Day 37 Video: Troubleshoot cluster component failure
+## Day 38 Video: Troubleshoot cluster component failure
 
-## Day 38 Video: Network Troubleshooting
+## Day 39 Video: Network Troubleshooting
  - Worker node failure
  - cordon, uncordon and drain (maintenance)
-
-## Day 39 Video: Kubernetes Installation "the hard way"
-- Installing Kubernetes manually using binaries
 
 ## Day 40 Video: Realtime project: Host your own container registry on Kubernetes
 - This project will include multiple Kubernetes topics with real-time implementation.
 
-## Bonus Video: Mission CKA
+## Day 41 Video: JSONPath, advance kubectl commands
+
+## Day 42 Bonus Video: Mission CKA
 
 - Exam Pattern
 - Last-minute preparation
